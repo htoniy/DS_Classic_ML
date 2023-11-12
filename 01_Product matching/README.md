@@ -21,4 +21,4 @@
 предлагать продукццию магазина из имеющегося ассортимента на основании запроса пользователя. Данный продукт способен предложить 
 
 
-![Логотип GitHub](https://github.com/fluidicon.png)
+![Логотип GitHub](https://raw.githubusercontent.com/htoniy/Data-Science_Classic-ML/main/01_Product%20matching/images/Code%20algoritm.png)
