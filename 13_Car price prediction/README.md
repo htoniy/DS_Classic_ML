@@ -3,10 +3,11 @@
 
 
 
-<p align="center"> Data Science Classic ML. </p align="center">
+<p align="center"> Data Science Classic ML. </p>
 
-| ML type                           | change description                           |    RMSE |   learning_time |   prediction_time |\n|:----------------------------------|:---------------------------------------------|--------:|----------------:|------------------:|\n| LightGBM                          | LightGBM comparison                          | 1742.83 |         5.20357 |        0.352361   |\n| CatBoost                          | CatBoost comparison                          | 1787.66 |       150.685   |        0.125602   |\n| LinearRegression and SVR ensemble | LinearRegression and SVR ensemble comparison | 2722.03 |         2.90468 |        0.00513816 |\n| LightGBM                          | LightGBM comparison test sample              | 1753.46 |         4.63421 |        1.34166    |
-
----
-
-__________________________________________________________________________________________________________________________
+| ML type                           | change description                           |    RMSE |   learning_time |   prediction_time |
+|:----------------------------------|:---------------------------------------------|--------:|----------------:|------------------:|
+| LightGBM                          | LightGBM comparison                          | 1742.83 |         5.20357 |        0.352361   |
+| CatBoost                          | CatBoost comparison                          | 1787.66 |       150.685   |        0.125602   |
+| LinearRegression and SVR ensemble | LinearRegression and SVR ensemble comparison | 2722.03 |         2.90468 |        0.00513816 |
+| LightGBM                          | LightGBM comparison test sample              | 1753.46 |         4.63421 |        1.34166    |
