@@ -39,4 +39,4 @@
 
 Проект показал эффективность прогнозирования потребности в такси на следующий час с использованием библиотеки Ethna. Метрика RMSE на тестовой выборке достигла 12, что является оптимальным результатом. График взаимосвязи прогнозирования и фактических данных приведен ниже.
 
-![](https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2023/02/GettyImages-1335040295-1024x695.jpg)
+![](https://raw.githubusercontent.com/htoniy/DS_Classic_ML/main/04_Determining_taxi_demand_for_next_hour/pred_actual.png)
